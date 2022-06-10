@@ -17,13 +17,13 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 7.End the program. 
 
 ## Program:
-```
+~~~
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by:Umar Mohamed e 
 RegisterNumber:212220040173  
 */
-~~~
+
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("Mall_Customers.csv")
