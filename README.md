@@ -60,11 +60,11 @@ plt.legend()
 ~~~
 
 ## Output:
-![Github Logo](u1.png)
-![Github Logo](u2.png)
-![Github Logo](u3.png)
-![Github Logo](u4.png)
-![Github Logo](u5.png)
+!.[Github Logo].(u1.png)
+!.[Github Logo].(u2.png)
+!.[Github Logo].(u3.png)
+!.[Github Logo].(u4.png)
+!.[Github Logo].(u5.png)
 
 
 ## Result:
